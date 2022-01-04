@@ -1,0 +1,23 @@
+
+{
+    "Institute":"GUVI",
+    "BatchName":"B29WDT",
+    "Course name":"Full stack development",
+    "Class Timing":"10:00 to 12:00",
+    "Course Duration":"3 months",
+    
+  "Sylabus":[
+    {
+      "Frontend":["HTML","CSS","JS","Bootstrap","DOM","Typescript","React"]
+    },
+    {
+      "Database":["SQL","MongoDB"]
+    },
+    {
+      "Backend":["NodeJS","AWS"]
+    }
+  ]
+  }
+
+
+  
